@@ -3,5 +3,6 @@ public class TripSelection {
         System.out.println("Welcome to Trip updates");
         System.out.println("We will start trip to yellowstone");
         System.out.println("Trip will be starting from Monday");
+        System.out.println("Trip will be ending on saturday");
     }
 }
